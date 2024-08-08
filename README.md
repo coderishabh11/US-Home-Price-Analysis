@@ -100,4 +100,4 @@ The analysis revealed that GDP is a significant predictor of the Home Price Inde
 
 ---
 
-Feel free to contribute to the project by submitting issues or pull requests. For any questions, contact me at [your-email@example.com](mailto:your-email@example.com).
+Feel free to contribute to the project by submitting issues or pull requests. For any questions, contact me at [coderishabh0411@gmail.com](mailto:coderishabh0411@gmail.com).
