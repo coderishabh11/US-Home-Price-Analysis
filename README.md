@@ -1,6 +1,6 @@
 # US Home Prices Analysis
 
-This repository contains an analysis of the factors affecting US home prices over the last 20 years. The project involves data collection, exploratory data analysis (EDA), model building, and predictive analytics.
+This repository contains an analysis of the factors affecting US home prices over the last 20 years. The project involves data collection, exploratory data analysis (EDA), model building, and predictive analytics, all conducted within a Jupyter Notebook.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -83,6 +83,7 @@ The analysis revealed that GDP is a significant predictor of the Home Price Inde
 - XGBoost
 - matplotlib
 - seaborn
+- jupyter
 
 ## Usage
 1. Clone the repository:
@@ -90,17 +91,12 @@ The analysis revealed that GDP is a significant predictor of the Home Price Inde
     git clone https://github.com/your-username/us-home-prices-analysis.git
     ```
 
-2. Install the required packages:
+2. Open the Jupyter Notebook:
     ```sh
-    pip install -r requirements.txt
+    jupyter notebook US_Home_Prices_Analysis.ipynb
     ```
 
-3. Run the analysis scripts:
-    ```sh
-    python analysis.py
-    ```
-
-4. View the results in the output directory.
+3. Run the notebook cells to reproduce the analysis and results.
 
 ---
 
